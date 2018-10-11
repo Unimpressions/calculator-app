@@ -31,11 +31,13 @@ Clone your fork down to your local machine</li>
 <li>Make your changes (choose from any task)</li>
 
 <li>Commit and push</li>
+
 <code>
    git add .
    git commit -m 'Commit message'
    git push origin branch-name
 </code>
+
 <li>Create a new pull request from your forked repository (Click the New Pull Request button located at the top of your repo)</li>
 
 <li>Wait for your PR review and merge approval!</li>
