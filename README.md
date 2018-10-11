@@ -15,9 +15,8 @@ This is a simple calculator application that can perform basic mathematics.
     <li>Good user interface</li>
 </ul>
 
-# HOW TO CONTRIBUTE
 
-## Getting started
+## How To Contribute
 
 <ol>
 <li>Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
