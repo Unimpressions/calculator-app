@@ -15,7 +15,7 @@ This is a simple calculator application that can perform basic mathematics.
     <li>Good user interface</li>
 </ul>
 
-# #HOW TO CONTRIBUTE
+## HOW TO CONTRIBUTE
 
 # Getting started
 
