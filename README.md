@@ -22,7 +22,7 @@ This is a simple calculator application that can perform basic mathematics.
 <li>Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
 Clone your fork down to your local machine</li>
 
-   git clone https://github.com/your-username/calculator-app.git
+   <code>git clone https://github.com/your-username/calculator-app.git</code>
 
 <li>Create a branch</li>
 
